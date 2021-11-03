@@ -132,7 +132,7 @@ The aim is then to maximize the mechanical efficiency. I decided to develop a me
 <u>Jan 2019 - July 2019</u>
 
 <div style="text-align: justify">The objective of this project is to find a solution to recuperate the warmth coming out of a system which produces fumes at high temperature. The solution I found, was a creation of an exchanger to recuperate fumes to warm the air which entered  another system. The other system required air at the temperature of T=800K. I had to dimension my exchanger to respect size-specifications.
- <br>
+<br>
 The objective is then, to achieve the most efficient exchanger possible. In a first step, I calculated the different coefficients governing the thermal transfer (DTLM method, NUT...) to complete a pre-dimensioning. To obtain an efficient thermal exchange between air and fumes, I created an exchanger geometry with the highest exchange surface between air and fumes. I developed my solution in CATIA. I finally simulated my model and analyzed our results under StarCCM+ (CFD software). According to results, we had to complete the dimensioning by determining the perfect dimensions, materials, and architecture to obtain the most optimized heat exchanger.</div>
 <br>
 <center><img src="images/echan.png"/></center>
