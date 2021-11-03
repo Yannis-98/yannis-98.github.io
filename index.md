@@ -37,7 +37,8 @@
 ---
 ### Semi-supervised algorithms and image augmentations for the segmentation of satellite images
 
-**Company: ONERA**
+
+<center><img src="images/ONERA.png" width="40%" height="40%" alt="A 100x100 image"/></center>
 
 <u>May 2021 - Aug 2021</u>
 
