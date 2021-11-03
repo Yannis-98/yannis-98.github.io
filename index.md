@@ -21,7 +21,7 @@
 
 <div style="text-align: justify">A critical risk in autonomous vehicle is accident caused by an the external environment. Thus, we are investigating methods to anticipate risk and define a risky region localiztion. We are currently working on the work of [1] to implement their work and adapt it to aunomous vehicles. We use a dashcam database to train and test the performance of the algorithm. </div>
 <br>
-<center><img src="images/finger1.png"/></center>
+<center><img src="images/DASHCAM.png"/></center>
 
 **Bibliography:**
 
@@ -39,7 +39,7 @@
 <center><img src="images/satelite.png"></center>
 <br>
 **Bibliography:**
-<br>
+
 [1] Tarvainen, A. and Valpola, H. (2018) ‘Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results’, arXiv:1703.01780 [cs, stat]. Available at: http://arxiv.org/abs/1703.01780 (Accessed: 2 August 2021)
 
 [2] French, G. et al. (2020) ‘Semi-supervised semantic segmentation needs strong, varied perturbations’, arXiv:1906.01916 [cs]. Available at: http://arxiv.org/abs/1906.01916 (Accessed: 2 August 2021)
