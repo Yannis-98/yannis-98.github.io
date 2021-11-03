@@ -121,7 +121,7 @@ The objective is then, to achieve the most efficient exchanger possible. In a fi
 ---
 ## Reinforcement Learning
 ### Lunar Landing 
-<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. The reinforcement learning is based on the notion of reward and episode, the shuttle gains a reward when it approaches the landing zone, on the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies and optimize them with Optiuna.</div>
+<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. The reinforcement learning is based on the notion of reward and episode, the shuttle gains a reward when it approaches the landing zone, on the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN and QR-DQN) and optimize them with Optuna. I found that the PPO provide the best performance.</div>
 <br>
 <center><img src="images/PPO.gif"/></center>
 
