@@ -81,16 +81,16 @@ I developed forecasting and identifying methods to complete different tasks auto
 <br>
 <center><img src="images/inpaint.PNG"/></center>
 <br>
+**Bibliography:**
+
+[1] Bin Shen and Wei Hu and Zhang, Yimin and Zhang, Yu-Jin: Image Inpainting via Sparse Representation Proceedings of the 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP ’09)
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Particle Tracking 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">The objective of the project was to study and numerically represent a flow around a cylinder using the principle of PTV. A camera with a laser was placed in front of the cylinder, the flow contains particles which do not influence the characteristics of the flow. Our role was to use images from the camera. By using the flow of the particle around the cylinder, we can use our mathematical and computing knowledge. The first step was to identify particles on each image from the film. The background being totally black, we can identify particles which are white. We used a correlation method based on neural networks. By means of weights, the method identifies the particles that resemble each other between two images. Then we infer vector fields</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/veloci.png"/></center>
 <br>
 
 ---
