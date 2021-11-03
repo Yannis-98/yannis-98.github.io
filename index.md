@@ -83,7 +83,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;^*&space;=&space;argmin(X\omega&space;-&space;y)^T(X\omega-y)&plus;\alpha\Omega(w)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;^*&space;=&space;argmin(X\omega&space;-&space;y)^T(X\omega-y)&plus;\alpha\Omega(w)" title="\omega ^* = argmin(X\omega - y)^T(X\omega-y)+\alpha\Omega(w)" /></a></center>
 <br>
 <center><img src="images/inpaint.PNG"/></center>
-<br>
+
 **Bibliography:**
 
 [1] Bin Shen and Wei Hu and Zhang, Yimin and Zhang, Yu-Jin: Image Inpainting via Sparse Representation Proceedings of the 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP ’09)
@@ -119,17 +119,15 @@ The objective is then, to achieve the most efficient exchanger possible. In a fi
 <br>
 
 ---
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+## Reinforcement Learning
+### Lunar Landing 
+<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. The reinforcement learning is based on the notion of reward and episode, the shuttle gains a reward when it approaches the landing zone, on the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies and optimize them with Optiuna.</div>
 <br>
+<center><img src="images/PPO.gif"/></center>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+**Bibliography:**
+
+[1] https://gym.openai.com/envs/LunarLander-v2/
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2022 Yannis Montreuil Powered by Jekyll and the Minimal Theme.</center>
