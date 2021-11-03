@@ -8,7 +8,7 @@
 
 <u>Oct 2021 - Now</u>
 
-<div style="text-align: justify">Overlapped fingerprints are frequently encountered in latent fingerprints lifted from crime scenes. It is necessary to separate such overlapped fingerprints into component fingerprints so that existing fingerprint matchers can recognize them. In this project, we are trying to completely separate these fingerprints to provide two reconstructed fingerprints. We are currently basing our work on U-Net architecture, image augmentations, and some non trivial masks (geomtrics, ...). The database was generated with GAN to improve the learning of supervised algorithms.</div>
+<div style="text-align: justify">Overlapped fingerprints are frequently encountered in latent fingerprints lifted from crime scenes. It is necessary to separate such overlapped fingerprints into component fingerprints so that existing fingerprint matchers can recognize them. In this project, we are trying to separate these fingerprints to provide two reconstructed fingerprints completely. We are currently basing our work on U-Net architecture, image augmentations, and some non-trivial masks (geometrics, ...). We generated the database with GAN to improve the learning of supervised algorithms.</div>
 <br>
 <center><img src="images/finger1.png"/></center>
 
@@ -23,7 +23,7 @@
 
 <u>Oct 2021 - Now</u>
 
-<div style="text-align: justify">A critical risk in autonomous vehicle is accident caused by an the external environment. Thus, we are investigating methods to anticipate risk and define a risky region localiztion. We are currently working on the work of [1] to implement their work and adapt it to aunomous vehicles. We use a dashcam database to train and test the performance of the algorithm. </div>
+<div style="text-align: justify">A critical risk in autonomous vehicle is accident caused by an the external environment. Thus, we are investigating methods to anticipate risk and define a risky region localization. We are currently working on [1] to implement their work and adapt it to autonomous vehicles. We use a dashcam database to train and test the performance of the algorithm. </div>
 <br>
 <center><img src="images/DASHCAM.png"/></center>
 
@@ -42,9 +42,9 @@
 
 <u>May 2021 - Aug 2021</u>
 
-<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance ofthe identification of the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
+<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
  <br> 
-I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mixof augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that the use of Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images, highly improved the robustness and the performance on segmentationfor large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
+I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mix of augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that using the Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images improved the robustness and the performance on segmentation for large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
 <br>
 <center><img src="images/satelite.png"></center>
 
@@ -63,7 +63,7 @@ I wrote a private research paper about the experimental performance improvement 
 <u>Sept 2020 - May 2021</u>
 
 
-<div style="text-align: justify">Competition gathering the best students in Europe. The UAV must carry out severalmissions. The first one is to automatically follow ground marking to reach a target. Thesecond one is that the UAV has to identify different targets according to the orders givenbeforehand (there are different forms and colors) and to deposit packages carefully. As Ilead the Artificial intelligence development of this project, I must coordinate the team. 
+<div style="text-align: justify">Competition gathering the best students in Europe. The UAV must carry out several missions. The first one is to automatically follow ground marks to reach a target. The second one is that the UAV has to identify different targets according to the orders given beforehand (different forms and colours) and deposit packages carefully. As I lead the Artificial intelligence development of this project, I must coordinate the team. 
  
 <br>
  
@@ -80,7 +80,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 <u>Feb 2021 - July 2021</u>
 
-<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
+<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colourization is a challenging, inherently stochastic task that requires a semantic understanding of the scene and knowledge of the world. Core immediate applications of the technique include producing organic new colourizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
 <br>
 <center><img src="images/google.png"/></center>
 
@@ -108,7 +108,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 <u>Jan 2019 - July 2019</u>
 
-<div style="text-align: justify">The objective of the project was to study and numerically represent a flow around a cylinder using the principle of PTV. A camera with a laser was placed in front of the cylinder, the flow contains particles which do not influence the characteristics of the flow. Our role was to use images from the camera. By using the flow of the particle around the cylinder, we can use our mathematical and computing knowledge. The first step was to identify particles on each image from the film. The background being totally black, we can identify particles which are white. We used a correlation method based on neural networks. By means of weights, the method identifies the particles that resemble each other between two images. Then we infer vector fields</div>
+<div style="text-align: justify">The project's objective was to study and numerically represent a flow around a cylinder using the principle of PTV. A camera with a laser was placed in front of the cylinder; the flow contains particles that do not influence the characteristics of the flow. Our role was to use images from the camera. Using the particle's flow around the cylinder, we can use our mathematical and computing knowledge. The first step was to identify particles on each image from the film. The background being black, we can identify white particles. We used a correlation method based on neural networks. Through weights, the method identifies the particles that resemble each other between two images. Then we infer vector fields</div>
 <br>
 <center><img src="images/veloci.png"/></center>
 <br>
@@ -119,7 +119,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 <u>Sept 2020 - Jan 2021</u>
 
-<div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution, in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. To respect these specifications the airship has to move extremely slowly because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move essentially thanks to the gas in the dirigible. Propellers are only here to begin the movement.
+<div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. The airship has to move extremely slowly to respect these specifications because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move thanks to the gas in the airship essentially. Propellers are only here to begin the movement.
 The aim is then to maximize the mechanical efficiency. I decided to develop a method to generate the most effective helix. By using using characteristic points from a blade I developed a parametric method by randomly modifying in a value interval the data of the helix.</div>
 <br>
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" title="A_{j}^{i}=A_{0}^{i}+F_{j}^{i}(X_{j}^{i})" /></a></center>
@@ -132,9 +132,9 @@ The aim is then to maximize the mechanical efficiency. I decided to develop a me
 
 <u>Jan 2019 - July 2019</u>
 
-<div style="text-align: justify">The objective of this project is to find a solution to recuperate the warmth coming out of a system which produces fumes at high temperature. The solution I found, was a creation of an exchanger to recuperate fumes to warm the air which entered  another system. The other system required air at the temperature of T=800K. I had to dimension my exchanger to respect size-specifications.
+<div style="text-align: justify">The objective of this project is to find a solution to recuperate the warmth coming out of a system that produces fumes at high temperatures. The solution I found was a creation of an exchanger to recuperate fumes to warm the air, which entered another system. The other system required air at the temperature of T=800K. I had to dimension my exchanger to respect size specifications.
 <br>
-The objective is then, to achieve the most efficient exchanger possible. In a first step, I calculated the different coefficients governing the thermal transfer (DTLM method, NUT...) to complete a pre-dimensioning. To obtain an efficient thermal exchange between air and fumes, I created an exchanger geometry with the highest exchange surface between air and fumes. I developed my solution in CATIA. I finally simulated my model and analyzed our results under StarCCM+ (CFD software). According to results, we had to complete the dimensioning by determining the perfect dimensions, materials, and architecture to obtain the most optimized heat exchanger.</div>
+The objective is then to achieve the most efficient exchanger possible. In the first step, I calculated the different coefficients governing the thermal transfer (DTLM method, NUT...) to complete a pre-dimensioning. I created an exchanger geometry with the highest exchange surface between air and fumes to obtain an efficient thermal exchange between air and fumes. I developed my solution in CATIA. I finally simulated my model and analyzed our results under StarCCM+ (CFD software). According to the results, we had to complete the dimensioning by determining the perfect dimensions, materials, and architecture to obtain the most optimized heat exchanger.</div>
 <br>
 <center><img src="images/echan.png"/></center>
 <br>
@@ -146,7 +146,7 @@ The objective is then, to achieve the most efficient exchanger possible. In a fi
 <u>Sept 2021</u>
 
 
-<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. The reinforcement learning is based on the notion of reward and episode, the shuttle gains a reward when it approaches the landing zone, on the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN and QR-DQN) and optimize them with Optuna. I found that the PPO provide the best performance.</div>
+<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. Reinforcement learning is based on reward and episode; the shuttle gains rewards when approaching the landing zone. On the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN and QR-DQN) and optimize them with Optuna. I found that the PPO provide the best performance.</div>
 <br>
 <center><img src="images/PPO.gif"/></center>
 
