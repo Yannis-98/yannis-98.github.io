@@ -57,7 +57,7 @@ I wrote a private research paper about the experimental performance improvement 
 <br>
 I developed forecasting and identifying methods to complete different tasks automatically, such as ground markers identification and parcel drop-off (YOLO method, non-linear optimization, gradient boosting, clustering...). To create the database, I generated artificial images with simulation software and python scripts. I enhanced the database by varying different external parameters (brightness to simulate an image taken at the end of the day...) of images to improve the diversity within the database.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/UAV_t.png"/></center>
 <br>
 
 ---
