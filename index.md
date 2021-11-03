@@ -48,10 +48,24 @@ I wrote a private research paper about the experimental performance improvement 
 [2] French, G. et al. (2020) ‘Semi-supervised semantic segmentation needs strong, varied perturbations’, arXiv:1906.01916 [cs]. Available at: http://arxiv.org/abs/1906.01916 (Accessed: 2 August 2021)
 
 ---
+
+### Autonomous UAV: Dassault UAV Challenge
+
+**Company: Dassault Aviation**
+
+<div style="text-align: justify">Competition gathering the best students in Europe. The UAV must carry out severalmissions. The first one is to automatically follow ground marking to reach a target. Thesecond one is that the UAV has to identify different targets according to the orders givenbeforehand (there are different forms and colors) and to deposit packages carefully. As Ilead the Artificial intelligence development of this project, I must coordinate the team.</div>
+<br>
+<center><img src="images/ames-house-price.jpg"/></center>
+<br>
+
+---
 ### Colorization Transformer by Google
 
 
-<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
+<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.
+<br>
+I developed forecasting and identifying methods to complete different tasks automatically, such as ground markers identification and parcel drop-off (YOLO method, non-linear optimization, gradient boosting, clustering...). To create the database, I generated artificial images with simulation software and python scripts. I enhanced the database by varying different external parameters (brightness to simulate an image taken at the end of the day...) of images to improve the diversity within the database.
+</div>
 <br>
 <center><img src="images/google.png"/></center>
 <br>
