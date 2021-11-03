@@ -4,7 +4,7 @@
 
 ### Separating Latent Overlapped Fingerprints
 
-<center><img src="images/LOG1.png" width="40%" height="40%" alt="A 100x100 image"/></center>
+<center><img src="images/LOG1.png" width="50%" height="50%" alt="A 100x100 image"/></center>
 
 <u>Oct 2021 - Now</u>
 
@@ -38,7 +38,7 @@
 ### Semi-supervised algorithms and image augmentations for the segmentation of satellite images
 
 
-<center><img src="images/ONERA.png" width="40%" height="40%" alt="A 100x100 image"/></center>
+<center><img src="images/ONERA.png" width="50%" height="50%" alt="A 100x100 image"/></center>
 
 <u>May 2021 - Aug 2021</u>
 
@@ -58,7 +58,7 @@ I wrote a private research paper about the experimental performance improvement 
 
 ### Autonomous UAV: Dassault UAV Challenge
 
-**Company: Dassault Aviation**
+<center><img src="images/LOG2.png" width="50%" height="50%" alt="A 100x100 image"/></center>
 
 <u>Sept 2020 - May 2021</u>
 
