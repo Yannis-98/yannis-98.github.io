@@ -18,6 +18,7 @@
 <center><img src="images/BERT-classification.png"/></center>
 
 **Bibliography:**
+<br>
 Zeng, K.-H. et al. (2017) ‘Agent-Centric Risk Assessment: Accident Anticipation and Risky Region Localization’, arXiv:1705.06560 [cs] [Preprint]. Available at: http://arxiv.org/abs/1705.06560 (Accessed: 3 November 2021).
 
 
