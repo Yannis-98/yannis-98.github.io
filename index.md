@@ -66,7 +66,7 @@ I wrote a private research paper about the experimental performance improvement 
 <br>
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=\omega&space;^*&space;=&space;argmin(X\omega&space;-&space;y)^T(X\omega-y)&plus;\alpha\Omega(w)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega&space;^*&space;=&space;argmin(X\omega&space;-&space;y)^T(X\omega-y)&plus;\alpha\Omega(w)" title="\omega ^* = argmin(X\omega - y)^T(X\omega-y)+\alpha\Omega(w)" /></a></center>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/inpaint.PNG"/></center>
 <br>
 
 ---
