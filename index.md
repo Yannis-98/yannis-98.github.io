@@ -4,7 +4,7 @@
 
 ### Separating Latent Overlapped Fingerprints
 
-**Company: IDEMIA**
+<center><img src="images/LOGO1.png"/></center>
 
 <u>Oct 2021 - Now</u>
 
