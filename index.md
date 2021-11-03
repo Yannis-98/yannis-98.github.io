@@ -4,7 +4,7 @@
 
 ### Separating Latent Overlapped Fingerprints
 
-<center><img src="images/LOG1.png" width="50%" height="50%" alt="A 100x100 image"/></center>
+<center><img src="images/LOG1.png" width="40%" height="40%" alt="A 100x100 image"/></center>
 
 <u>Oct 2021 - Now</u>
 
