@@ -8,7 +8,7 @@
 
 <div style="text-align: justify">Overlapped fingerprints are frequently encountered in latent fingerprints lifted from crime scenes. It is necessary to separate such overlapped fingerprints into component fingerprints so that existing fingerprint matchers can recognize them. In this project, we are trying to completely separate these fingerprints to provide two reconstructed fingerprints. We are currently basing our work on U-Net architecture, image augmentations, and some non trivial masks (geomtrics, ...). The database was generated with GAN, to improve the learning of supervised algorithms.  </div>
 <br>
-<center><img src="images/finger.PNG"/></center>
+<center><img src="images/finger.png"/></center>
 
 **Bibliography:**
 
