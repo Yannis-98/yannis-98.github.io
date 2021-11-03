@@ -1,9 +1,7 @@
 # Portfolio
 ---
 
-<h2 id="mon_ancre">Titre</h2>
-
-## Deep Learning and Computer Vision
+<h2 id="Deep">Deep Learning and Computer Vision</h2>
 
 ### Separating Latent Overlapped Fingerprints
 
