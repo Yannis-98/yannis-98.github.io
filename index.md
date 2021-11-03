@@ -100,9 +100,12 @@ I developed forecasting and identifying methods to complete different tasks auto
 ## Optimization
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution, in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. To respect these specifications the airship has to move extremely slowly because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move essentially thanks to the gas in the dirigible. Propellers are only here to begin the movement.
+The aim is then to maximize the mechanical efficiency. I decided to develop a method to generate the most effective helix. By using using characteristic points from a blade I developed a parametric method by randomly modifying in a value interval the data of the helix. I started by generating points from a standard model</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><a href="https://www.codecogs.com/eqnedit.php?latex=A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" title="A_{j}^{i}=A_{0}^{i}+F_{j}^{i}(X_{j}^{i})" /></a></center>
+<br>
+<center><img src="images/uav_airship.PNG"/></center>
 <br>
 
 ---
