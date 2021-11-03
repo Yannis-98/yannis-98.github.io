@@ -98,10 +98,10 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 ---
 ## Optimization
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Propeller optimization, airship UAV
 
 <div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution, in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. To respect these specifications the airship has to move extremely slowly because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move essentially thanks to the gas in the dirigible. Propellers are only here to begin the movement.
-The aim is then to maximize the mechanical efficiency. I decided to develop a method to generate the most effective helix. By using using characteristic points from a blade I developed a parametric method by randomly modifying in a value interval the data of the helix. I started by generating points from a standard model</div>
+The aim is then to maximize the mechanical efficiency. I decided to develop a method to generate the most effective helix. By using using characteristic points from a blade I developed a parametric method by randomly modifying in a value interval the data of the helix.</div>
 <br>
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" title="A_{j}^{i}=A_{0}^{i}+F_{j}^{i}(X_{j}^{i})" /></a></center>
 <br>
@@ -109,13 +109,15 @@ The aim is then to maximize the mechanical efficiency. I decided to develop a me
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### Heat Exchanger Optimization 
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
+<div style="text-align: justify">The objective of this project is to find a solution to recuperate the warmth coming out of a system which produces fumes at high temperature. The solution I found, was a creation of an exchanger to recuperate fumes to warm the air which entered  another system. The other system required air at the temperature of T=800K. I had to dimension my exchanger to respect size-specifications.
+ <br>
+The objective is then, to achieve the most efficient exchanger possible. In a first step, I calculated the different coefficients governing the thermal transfer (DTLM method, NUT...) to complete a pre-dimensioning. To obtain an efficient thermal exchange between air and fumes, I created an exchanger geometry with the highest exchange surface between air and fumes. I developed my solution in CATIA. I finally simulated my model and analyzed our results under StarCCM+ (CFD software). According to results, we had to complete the dimensioning by determining the perfect dimensions, materials, and architecture to obtain the most optimized heat exchanger.</div>
 <br>
-<center><img src="images/bac2018.JPG"/></center>
+<center><img src="images/echan.png"/></center>
 <br>
 
 ---
