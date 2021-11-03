@@ -9,7 +9,7 @@
 <div style="text-align: justify">Overlapped fingerprints are frequently encountered in latent fingerprints lifted from crime scenes. It is necessary to separate such overlapped fingerprints into component fingerprints so that existing fingerprint matchers can recognize them. In this project, we are trying to completely separate these fingerprints to provide two reconstructed fingerprints. We are currently basing our work on U-Net architecture, image augmentations, and some non trivial masks (geomtrics, ...). The database was generated with GAN, to improve the learning of supervised algorithms.  </div>
 <br>
 <center><img src="images/fingerprin.PNG"/></center>
-<br>
+
 **Bibliography:**
 <br>
 Jianjiang Feng, Yuan Shi, Jie Zhou, "Robust and Efficient Algorithms for Separating Latent Overlapped Fingerprints", IEEE Transactions on Information Forensics and Security, vol. 7, no. 5, pp. 1498-1510, 2012. 
@@ -21,7 +21,7 @@ Fanglin Chen, Jianjiang Feng, Anil K. Jain, Jie Zhou, and Jin Zhang, "Separating
 
 <div style="text-align: justify">A critical risk in autonomous vehicle is accident caused by an the external environment. Thus, we are investigating methods to anticipate risk and define a risky region localiztion. We are currently working on the work of [1] to implement their work and adapt it to aunomous vehicles. We use a dashcam database to train and test the performance of the algorithm. </div>
 <br>
-**Bibliography:**<br>
+**Bibliography:**
 Zeng, K.-H. et al. (2017) ‘Agent-Centric Risk Assessment: Accident Anticipation and Risky Region Localization’, arXiv:1705.06560 [cs] [Preprint]. Available at: http://arxiv.org/abs/1705.06560 (Accessed: 3 November 2021).
 <br>
 Jain, A. et al. (2016) ‘Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture’, arXiv:1601.00740 [cs] [Preprint]. Available at: http://arxiv.org/abs/1601.00740 (Accessed: 3 November 2021).
