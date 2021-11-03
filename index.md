@@ -130,4 +130,4 @@ The objective is then, to achieve the most efficient exchanger possible. In a fi
 [1] https://gym.openai.com/envs/LunarLander-v2/
 
 ---
-<center>© 2022 Yannis Montreuil Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Yannis Montreuil Powered by Jekyll and the Minimal Theme.</center>
