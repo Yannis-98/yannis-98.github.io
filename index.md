@@ -42,6 +42,7 @@
 <center><img src="images/ONERA.png" width="50%" height="50%" alt="A 100x100 image"/></center>
 
 <u>May 2021 - Aug 2021</u>
+
 <I> Private Research paper</I>
 
 <div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
