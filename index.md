@@ -33,6 +33,7 @@
 ---
 ### Semi-supervised algorithms and image augmentations for the segmentation of satellite images
 
+**Company: ONERA**
 
 <div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance ofthe identification of the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
  <br> 
@@ -50,7 +51,7 @@ I wrote a private research paper about the experimental performance improvement 
 ### Colorization Transformer by Google
 
 
-<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images</div>
+<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
 <br>
 <center><img src="images/google.png"/></center>
 <br>
@@ -59,15 +60,10 @@ I wrote a private research paper about the experimental performance improvement 
 [1] Kumar, M., Weissenborn, D. and Kalchbrenner, N. (2021) ‘Colorization Transformer’, arXiv:2102.04432 [cs] [Preprint]. Available at: http://arxiv.org/abs/2102.04432 (Accessed: 1 September 2021).
 
 ---
-## Data Science
+### Image Inpaiting
 
-### Credit Risk Prediction Web App
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">mage inpainting focuses on the reconstruction of deteriorated images or when fillingmissing parts. This technique is used extremely often in images reconstitution because itallows to reconstitute historical images which have deteriorated. I principally studied theLASSO algorithm which is based on contraction of regression coefficients. and the ridgeregression. The linear regression consists in resolving: </div>
+$$ {J(\theta) =\frac{1}{2m} [\sum^m_{i=1}(h_\theta(x^{(i)}) - y^{(i)})2 + \lambda\sum^n_{j=1}\theta^2_j} $$
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
