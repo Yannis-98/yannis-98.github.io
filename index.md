@@ -34,7 +34,9 @@
 ### Semi-supervised algorithms and image augmentations for the segmentation of satellite images
 
 
-<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance ofthe identification of the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mixof augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that the use of Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images, highly improved the robustness and the performance on segmentationfor large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
+<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance ofthe identification of the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
+ <br> 
+I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mixof augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that the use of Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images, highly improved the robustness and the performance on segmentationfor large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
 <br>
 <center><img src="images/satelite.png"></center>
 <br>
@@ -45,15 +47,16 @@
 [2] French, G. et al. (2020) ‘Semi-supervised semantic segmentation needs strong, varied perturbations’, arXiv:1906.01916 [cs]. Available at: http://arxiv.org/abs/1906.01916 (Accessed: 2 August 2021)
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Colorization Transformer by Google
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene as well as knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/google.png"/></center>
 <br>
+**Bibliography:**
+
+[1] Kumar, M., Weissenborn, D. and Kalchbrenner, N. (2021) ‘Colorization Transformer’, arXiv:2102.04432 [cs] [Preprint]. Available at: http://arxiv.org/abs/2102.04432 (Accessed: 1 September 2021).
 
 ---
 ## Data Science
