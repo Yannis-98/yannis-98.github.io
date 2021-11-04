@@ -62,10 +62,11 @@ I wrote a private research paper about the experimental performance improvement 
 
 ### Autonomous UAV: Dassault UAV Challenge
 
-<center><img src="images/LOG2.png" width="150%" height="150%" alt="A 100x100 image"/></center>
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Yannis-98/YOLOv4-Cloud-Tutorial)
+
+<center><img src="images/LOG2.png" width="150%" height="150%" alt="A 100x100 image"/></center>
 
 <u>Sept 2020 - May 2021</u>
 
