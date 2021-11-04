@@ -109,6 +109,8 @@ I developed forecasting and identifying methods to complete different tasks auto
 ---
 ### Particle Tracking 
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Yannis-98/Particle-detection-and-tracking---Velocimetry-)
+
 <u>Jan 2019 - July 2019</u>
 
 <div style="text-align: justify">The project's objective was to study and numerically represent a flow around a cylinder using the principle of PTV. A camera with a laser was placed in front of the cylinder; the flow contains particles that do not influence the characteristics of the flow. Our role was to use images from the camera. Using the particle's flow around the cylinder, we can use our mathematical and computing knowledge. The first step was to identify particles on each image from the film. The background being black, we can identify white particles. We used a correlation method based on neural networks. Through weights, the method identifies the particles that resemble each other between two images. Then we infer vector fields</div>
