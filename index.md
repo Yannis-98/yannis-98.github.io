@@ -152,6 +152,9 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 ## Reinforcement Learning
 ### Lunar Landing 
 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://github.com/Yannis-98/Reinforcement-Learning-LunarLander)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://colab.research.google.com/drive/1KDPy4kTRqeoygDsbhbr3Dr3lcRgYk99c)
+
 <u>Sept 2021</u>
 
 
