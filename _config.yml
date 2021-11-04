@@ -17,14 +17,14 @@ description:
   </p>
   
   <b>Deep-Learning and Computer Vision</b>
-  <br style="margin-left:10%;">Overlapped Fingerprints<br>
+  <p style="margin-left:10%;">Overlapped Fingerprints<br>
   Accident Anticipation<br>
   Semi-supervised algorithms<br>
   Autonomous UAV<br>
   Colorization Transformer<br>
   Image Inpaiting<br>
   Particle Tracking</br>
-  <b>Optimization </b>
+  <b>Optimization </p>
   <p style="margin-left:10%;">Propeller optimization, airship UAV<br>
   Heat Exchanger Optimization</p>
   <b>Reinforcement Learning</b>
