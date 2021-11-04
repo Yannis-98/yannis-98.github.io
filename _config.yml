@@ -18,7 +18,15 @@ description:
   </p>
   
   Deep-Learning and Computer Vision
-  <p style="margin-left:10%; margin-right:10%;">This is the text that I want to indent. I want to create a margin on both sides so that it doesn't go the full width of the page. Don't ask me why I want to do this. I just do!</p>
+  <p style="margin-left:10%; margin-right:10%;">Separating Latent Overlapped Fingerprints</p>
+  <p style="margin-left:10%; margin-right:10%;">Accident Anticipation and Risky Region Localization</p>
+  <p style="margin-left:10%; margin-right:10%;">Semi-supervised algorithms and image augmentations for the segmentation of satellite images</p>
+  <p style="margin-left:10%; margin-right:10%;">Autonomous UAV Dassault UAV Challenge</p>
+  <p style="margin-left:10%; margin-right:10%;">Colorization Transformer by Google</p>
+  <p style="margin-left:10%; margin-right:10%;">Image Inpaiting</p>
+  <p style="margin-left:10%; margin-right:10%;">Particle Tracking</p>
+
+
 
 
  
