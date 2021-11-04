@@ -50,7 +50,7 @@
 I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mix of augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that using the Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images improved the robustness and the performance on segmentation for large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
 <br>
 
-<center><img src="images/satelite.png" width="50%" height="50%" alt="A 100x100 image"/></center>
+<center><img src="images/satelite.png"/></center>
 
 **Bibliography:**
 
