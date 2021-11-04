@@ -152,10 +152,10 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 ## Reinforcement Learning
 ### Lunar Landing 
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://github.com/Yannis-98/Reinforcement-Learning-LunarLander)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://colab.research.google.com/drive/1KDPy4kTRqeoygDsbhbr3Dr3lcRgYk99c)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1KDPy4kTRqeoygDsbhbr3Dr3lcRgYk99c)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Yannis-98/Reinforcement-Learning-LunarLander)
 
-<u>Sept 2021</u>
+<u>Oct 2021</u>
 
 
 <div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. Reinforcement learning is based on reward and episode; the shuttle gains rewards when approaching the landing zone. On the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN and QR-DQN) and optimize them with Optuna. I found that the PPO provide the best performance.</div>
@@ -166,5 +166,19 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 
 [1] https://gym.openai.com/envs/LunarLander-v2/
 
+---
+### Genetic Algorithms
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/drive/u/0/folders/11AsHT-SIPapUlx2fFjee14zFXpgJwj94)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Yannis-98/Genetic-Algorithms)
+
+<u>Sept 2021</u>
+
+
+<div style="text-align: justify">The objective of this project is to understand genetic algorithms concept. We studied NSGA-II, DEAP, and multi-objective algorithms.</div>
+<br>
+<center><img src="images/gymcart.gif"/></center>
+
+gymcart
 ---
 <center>© 2021 Yannis Montreuil Powered by Jekyll and the Minimal Theme.</center>
