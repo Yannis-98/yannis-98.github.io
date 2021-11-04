@@ -20,6 +20,8 @@ description:
   Deep-Learning and Computer Vision
   <div style="text-indent: 15px;">Separating Latent Overlapped Fingerprints</div><br>
   <div style="text-indent: 15px;">Accident Anticipation and Risky Region Localization</div><br>
+  <div style="text-indent: 15px;">Image Inpaiting</div><br>
+  <div style="text-indent: 15px;">Particle Tracking</div><br>
   </p>
   
 theme: jekyll-theme-minimal
