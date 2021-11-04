@@ -17,8 +17,8 @@ description:
   <br><br>
   </p>
   Deep-Learning and Computer Vision
-  <p style="margin-left:10%; margin-right:10%;">Separating Latent Overlapped Fingerprints</p>
-  <p style="margin-left:10%; margin-right:10%;">Accident Anticipation and Risky Region Localization</p>
+  <p style="margin-left:10%; margin-right:10%;">Separating Latent Overlapped Fingerprints<br>
+  Accident Anticipation and Risky Region Localization</p>
   <p style="margin-left:10%; margin-right:10%;">Semi-supervised algorithms and image augmentations for the segmentation of satellite images</p>
   <p style="margin-left:10%; margin-right:10%;">Autonomous UAV Dassault UAV Challenge</p>
   <p style="margin-left:10%; margin-right:10%;">Colorization Transformer by Google</p>
