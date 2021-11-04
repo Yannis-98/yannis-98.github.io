@@ -1,3 +1,9 @@
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
 title: <p align="center"> Yannis Montreuil </p>
 
 logo: "/images/test222.png?raw=true"
@@ -18,7 +24,7 @@ description:
   
   Deep-Learning and Computer Vision
   <p class="tab">Separating Latent Overlapped Fingerprints</p>
-  <div style="text-indent: 15px;">...</div>
+
 
  
   
