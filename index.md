@@ -175,7 +175,7 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 <u>Sept 2021</u>
 
 
-<div style="text-align: justify">The objective of this project is to understand genetic algorithms concept. We studied NSGA-II, DEAP, and multi-objective algorithms. I will implement evolutionary algorithms, especially multi-objective ones to do learning. To do this, different functions are provided to trace the individuals generated at each generation or to compare the results between them</div>
+<div style="text-align: justify">The objective of this project is to understand genetic algorithms concept. We studied NSGA-II, DEAP, and multi-objective algorithms. I will implement evolutionary algorithms, especially multi-objective ones to complete learning. To do this, different functions are provided to plot the individual generated at each generation or to compare the results between them. </div>
 <br>
 <center><img src="images/gymcart.gif"/></center>
 
