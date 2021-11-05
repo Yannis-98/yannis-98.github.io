@@ -70,7 +70,7 @@ I wrote a private research paper about the experimental performance improvement 
 <u>Sept 2020 - May 2021</u>
 
 
-<div style="text-align: justify">Competition gathering the best students in Europe. The UAV must carry out several missions. The first one is to automatically follow ground marks to reach a target. The second one is that the UAV has to identify different targets according to the orders given beforehand (different forms and colours) and deposit packages carefully. As I lead the Artificial intelligence development of this project, I must coordinate the team. 
+<div style="text-align: justify">Competition gathering the best students in Europe. The UAV must carry out several missions. The first one is to automatically follow ground marks to reach a target. The second is that the UAV has to identify different targets according to the orders given beforehand (different forms and colors) and carefully deposit packages. As I lead the Artificial intelligence development of this project, I must coordinate the team. 
  
 <br>
  
@@ -87,7 +87,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 <u>Feb 2021 - July 2021</u>
 
-<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colourization is a challenging, inherently stochastic task that requires a semantic understanding of the scene and knowledge of the world. Core immediate applications of the technique include producing organic new colourizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
+<div style="text-align: justify">The objective was to understand and implement the research paper [1]. Image colorization is a challenging, inherently stochastic task that requires a semantic understanding of the scene and knowledge of the world. Core immediate applications of the technique include producing organic new colorizations of existing image and video content as well as giving life to originally grayscale media, such as old archival images and videos.</div>
 <br>
 <center><img src="images/google.png"/></center>
 
@@ -128,7 +128,7 @@ I developed forecasting and identifying methods to complete different tasks auto
 
 <u>Sept 2020 - Jan 2021</u>
 
-<div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. The airship has to move extremely slowly to respect these specifications because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move thanks to the gas in the airship essentially. Propellers are only here to begin the movement.
+<div style="text-align: justify">The aim is to dimension a propeller from a dirigible-type drone intended for indoor aerial evolution in the large ENSAM lecture hall. Initially, the drone will be a communication tool enabling images to be transmitted or carried autonomously and securely. Then, it can be modified to allow inspection or control of structures such as the vault of the large lecture hall. The airship must move extremely slowly to respect these specifications because it will only be used as a communication tool. Due to the type of UAV (dirigible), the UAV has to move thanks to the gas in the airship essentially. Propellers are only here to begin the movement.
 The aim is then to maximize the mechanical efficiency. I decided to develop a method to generate the most effective helix. By using using characteristic points from a blade I developed a parametric method by randomly modifying in a value interval the data of the helix.</div>
 <br>
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A_{j}^{i}=A_{0}^{i}&plus;F_{j}^{i}(X_{j}^{i})" title="A_{j}^{i}=A_{0}^{i}+F_{j}^{i}(X_{j}^{i})" /></a></center>
@@ -158,7 +158,7 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 <u>Oct 2021</u>
 
 
-<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. Reinforcement learning is based on reward and episode; the shuttle gains rewards when approaching the landing zone. On the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN and QR-DQN) and optimize them with Optuna. I found that the PPO provide the best performance.</div>
+<div style="text-align: justify">This  project concerns the landing of a shuttle on the moon. The objective is to land the shuttle using reinforcement learning methods. We must then determine the most efficient policy possible in this environment and optimize the method. Reinforcement learning is based on reward and episode; the shuttle gains rewards when approaching the landing zone. On the contrary, it loses its reward when it moves away from the zone. The episode ends when the shuttle crashes. I study the performance of policies (2C, PPO, DQN, and QR-DQN) and optimize them with Optuna. I found that the PPO provides the best performance.</div>
 <br>
 <center><img src="images/PPO.gif"/></center>
 
@@ -179,6 +179,5 @@ The objective is then to achieve the most efficient exchanger possible. In the f
 <br>
 <center><img src="images/gymcart.gif"/></center>
 
-gymcart
 ---
 <center>© 2021 Yannis Montreuil Powered by Jekyll and the Minimal Theme.</center>
