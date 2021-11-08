@@ -48,7 +48,6 @@
 <div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
  <br> 
 
-<br>
 <center><img src="images/satelite1.png"/></center>
 
 **Bibliography:**
