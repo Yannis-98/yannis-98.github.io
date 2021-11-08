@@ -38,14 +38,13 @@
 ---
 ### Semi-supervised algorithms and image augmentations for the segmentation of satellite images
 
-
 <center><img src="images/ONERA.png" width="50%" height="50%" alt="A 100x100 image"/></center>
 
 <u>May 2021 - Aug 2021</u>
 
 <I> Private Research paper</I>
 
-<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
+<div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). </div>
  <br> 
 
 <center><img src="images/satelite1.png"/></center>
@@ -57,7 +56,6 @@
 [2] French, G. et al. (2020) ‘Semi-supervised semantic segmentation needs strong, varied perturbations’, arXiv:1906.01916 [cs]. Available at: http://arxiv.org/abs/1906.01916 (Accessed: 2 August 2021)
 
 ---
-
 ### Autonomous UAV: Dassault UAV Challenge
 
 
