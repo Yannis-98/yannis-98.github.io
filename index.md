@@ -47,7 +47,7 @@
 
 <div style="text-align: justify">This research work was completed through an internship at ONERA and CNES (Aerospace Lab). My role was to complete research on semi-supervised learning algorithms to increase the performance of identifying the buildings with a minimal database (Mean Teacher and Naive Student algorithms [1]). 
  <br> 
-I wrote a private research paper about the experimental performance improvement with data augmentations methods such as Principal Component Analysis, Mixup, a custom mix of augmentations, and semi-supervised learning algorithms for complex data segmentation. I demonstrated that using the Mean Teacher algorithm coupled with a random mix of non-trivial augmentation images improved the robustness and the performance on segmentation for large images: 30 % compared to supervised learning, and 13 % in a semi-supervised configuration without the random augmentations mix. </div>
+
 <br>
 <center><img src="images/satelite1.png"/></center>
 
